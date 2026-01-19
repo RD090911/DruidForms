@@ -1,22 +1,15 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
-    "Authors": [
-        {
-            "Name": "It's you!"
-        }
-    ],
-    "Website": "example.org",
-    "ServerVersion": "*",
-    "Dependencies": {
-        
-    },
-    "OptionalDependencies": {
-        
-    },
+    "Group": "RD",
+    "Name": "DruidForms",
+    "Version": "1.0.0",
+    "MainClass": "com.druid.DruidPlugin",
+    "Description": "Become a Druid and explore Hytale!",
+    "Authors": [],
+    "Website": "",
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "LoadBefore": {},
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
-    "IncludesAssetPack": true
+    "IncludesAssetPack": false,
+    "SubPlugins": []
 }
